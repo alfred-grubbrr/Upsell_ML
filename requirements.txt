@@ -1,0 +1,6 @@
+--find-links wheelhouse
+flask
+numpy
+pandas
+pyodbc
+sqlalchemy
